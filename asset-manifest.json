@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Alli19/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Alli19/static/js/main.eabf1631.chunk.js",
-    "main.js.map": "/Alli19/static/js/main.eabf1631.chunk.js.map",
+    "main.js": "/Alli19/static/js/main.5142bb71.chunk.js",
+    "main.js.map": "/Alli19/static/js/main.5142bb71.chunk.js.map",
     "runtime-main.js": "/Alli19/static/js/runtime-main.ca4e4a13.js",
     "runtime-main.js.map": "/Alli19/static/js/runtime-main.ca4e4a13.js.map",
     "static/js/2.03284ee6.chunk.js": "/Alli19/static/js/2.03284ee6.chunk.js",
@@ -11,20 +11,12 @@
     "static/js/3.181ccccc.chunk.js.map": "/Alli19/static/js/3.181ccccc.chunk.js.map",
     "index.html": "/Alli19/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/Alli19/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.03284ee6.chunk.js.LICENSE.txt": "/Alli19/static/js/2.03284ee6.chunk.js.LICENSE.txt",
-    "static/media/1270A88B-6FF1-4108-B5B4-80177322505C.4d1b7c02.jpeg": "/Alli19/static/media/1270A88B-6FF1-4108-B5B4-80177322505C.4d1b7c02.jpeg",
-    "static/media/22AF5B5B-CED8-4E83-BBF5-5DAC48283597.d9d3dd79.jpeg": "/Alli19/static/media/22AF5B5B-CED8-4E83-BBF5-5DAC48283597.d9d3dd79.jpeg",
-    "static/media/39309A23-CA40-44DF-AB02-35D06C09A206.b61e46a8.jpeg": "/Alli19/static/media/39309A23-CA40-44DF-AB02-35D06C09A206.b61e46a8.jpeg",
-    "static/media/4C906AE6-62D2-4BB3-BBF3-89FFA25A940E.f354c898.jpeg": "/Alli19/static/media/4C906AE6-62D2-4BB3-BBF3-89FFA25A940E.f354c898.jpeg",
-    "static/media/5C677C8F-D63A-4AC5-962A-AAF9C007880B.54c948f7.jpeg": "/Alli19/static/media/5C677C8F-D63A-4AC5-962A-AAF9C007880B.54c948f7.jpeg",
-    "static/media/A6A1CAFE-AFC7-4545-ADBA-42C142D758E7.e8669160.jpeg": "/Alli19/static/media/A6A1CAFE-AFC7-4545-ADBA-42C142D758E7.e8669160.jpeg",
-    "static/media/A7BFFC89-4AF3-4F54-B22A-87E67399A12F.6301c996.jpeg": "/Alli19/static/media/A7BFFC89-4AF3-4F54-B22A-87E67399A12F.6301c996.jpeg",
-    "static/media/logo.6ce24c58.svg": "/Alli19/static/media/logo.6ce24c58.svg"
+    "static/js/2.03284ee6.chunk.js.LICENSE.txt": "/Alli19/static/js/2.03284ee6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ca4e4a13.js",
     "static/js/2.03284ee6.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.eabf1631.chunk.js"
+    "static/js/main.5142bb71.chunk.js"
   ]
 }
