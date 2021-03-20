@@ -14,8 +14,6 @@ function Navbar() {
             <h1>
                 Alli's 19th Birthday!
             </h1>
-            <a href="/">Note</a>
-            <a href="something">Pictures (bc why not?)</a>
         </div>
     )
 }

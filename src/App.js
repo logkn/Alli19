@@ -5,23 +5,7 @@ import ImagePage from './ImagePage';
 
 function App() {
 
-  let page = null;
-
-  switch(window.location.href.split("/").reverse()[0]) {
-    case "something":
-      page = 
-        <div className="App" >
-          <Navbar/>
-          <div className="Body" style={{
-            textAlign: 'left',
-            padding: 100
-          }}>
-            <ImagePage/>
-          </div>
-      </div>
-      break;
-    default:
-      page = <div className="App" >
+      return (<div className="App" >
       
       <Navbar/>
       <div className="Body" style={{
@@ -56,13 +40,7 @@ function App() {
       Happy 19th Alli. I love you most. ❤️
       </p>
       </div>
-    </div>
+    </div>)
   }
-
-  return page;
-
-
-  
-}
 
 export default App;
