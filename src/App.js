@@ -1,12 +1,33 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar from './navbar';
+import ImagePage from './ImagePage';
 
 function App() {
-  return (
-    <div className="App" style={{
-      textAlign: 'left',
-      padding: 100
-    }}>
+
+  let page = null;
+
+  switch(window.location.href.split("/").reverse()[0]) {
+    case "something":
+      page = 
+        <div className="App" >
+          <Navbar/>
+          <div className="Body" style={{
+            textAlign: 'left',
+            padding: 100
+          }}>
+            <ImagePage/>
+          </div>
+      </div>
+      break;
+    default:
+      page = <div className="App" >
+      
+      <Navbar/>
+      <div className="Body" style={{
+        textAlign: 'left',
+        padding: 100
+      }}>
       <p>
       Alli,
       </p>
@@ -34,8 +55,14 @@ function App() {
       <p>
       Happy 19th Alli. I love you most. ❤️
       </p>
+      </div>
     </div>
-  );
+  }
+
+  return page;
+
+
+  
 }
 
 export default App;
