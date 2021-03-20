@@ -1,7 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
 import Navbar from './navbar';
-import ImagePage from './ImagePage';
 
 function App() {
 
@@ -34,7 +32,7 @@ function App() {
       But then I realize—the only explanation is that I manifested you. You’re too perfect for me to be an actual human, so I seriously must have just wished your existence at some point. One of these past 19 years, on some particular March 20th, I must have seen a shooting star or looked at the clock right when it said 11:11 or something, but your existence was definitely my doing. Only reasonable explanation…
       </p>
       <p>
-      … no, you’re real. After some very particular series of events, I met a girl who was born 18 years, 6 months, and 13 days ago. My flirty ass caught onto her pride of how the stars aligned that day 18 and a half months ago, and called her an asparagus one too many times. But really, I called her an asparagus just enough times to get her number and realize that girl was one I’d never want to be apart from.
+      … no, you’re real. After some very particular series of events, I met a girl who was born 18 years, 6 months, and 13 days before. My flirty ass caught onto her pride of how the stars aligned that day 18 and a half months ago, and called her an asparagus one too many times. But really, I called her an asparagus just enough times to get her number and realize that girl was one I’d never want to be apart from.
       </p>
       <p>
       Happy 19th Alli. I love you most. ❤️
